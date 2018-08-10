@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/josephofiowa/data-science-intro-credit-data/master)
+
 ## Pandas Intro
 
 An extremely lightweight introduction to seeing Pandas.
