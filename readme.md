@@ -1,7 +1,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/josephofiowa/data-science-intro-credit-data/master)
 
-Or, with nteract:
-[![Binder-nteract](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/josephofiowa/data-science-intro-credit-data/master?urlpath=nteract)
+[![Binder-nteract](https://media.githubusercontent.com/media/nteract/logos/master/nteract_logo_cube_book/exports/images/svg/nteract_badge.svg](https://mybinder.org/v2/gh/josephofiowa/data-science-intro-credit-data/master?urlpath=nteract)
 
 
 ## Pandas Intro
