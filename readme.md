@@ -1,5 +1,9 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/josephofiowa/data-science-intro-credit-data/master)
 
+Or, with nteract:
+[![Binder-nteract](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/josephofiowa/data-science-intro-credit-data/master?urlpath=nteract)
+
+
 ## Pandas Intro
 
 An extremely lightweight introduction to seeing Pandas.
